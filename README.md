@@ -8,10 +8,10 @@
 ## Kelompok 5
 
 ## Our Team
-- Aldi Yoga Setiawan
-- Nabilah Husen Al Kaff
+- Aldi Yoga Setiawan  - 21103050
+- Nabilah Husen Al Kaff - 21103036
 - Dewa Brata
-- Zidan Fathannul
+- Zidan Fathannul - 21103046
 - Regi Bintera Siregar
-- Bandum Irsa Maulana
+- Bandum Irsa Maulana - 21103035
 
