@@ -52,7 +52,7 @@
       <div class="humberger__menu__logo">
         <a href="#"><img src="{{ asset('frontend/img/frueats-high-resolution-logo-transparent (2).png') }}" alt="" /></a>
       </div>
-      <div class="humberger__menu__cart">
+      {{-- <div class="humberger__menu__cart">
         <ul>
           <li>
             <a href="#"><i class="fa fa-heart"></i> <span>1</span></a>
@@ -62,7 +62,7 @@
           </li>
         </ul>
         <div class="header__cart__price">item: <span>${{ $cartTotal }}</span></div>
-      </div>
+      </div> --}}
       <div class="humberger__menu__widget">
           @guest
             <div class="header__top__right__language">
@@ -196,7 +196,8 @@
                     @endforeach
                   </ul>
                 </li>
-                <li><a href="/">Contact</a></li>
+                {{-- <li><a href="/">Contact</a></li> --}}
+                <li><a href="{{ route('contact') }}">Contact</a></li>
               </ul>
             </nav>
           </div>
@@ -263,9 +264,9 @@
                 <a href="./index.html"><img src="{{ asset('frontend\img\frueats-high-resolution-logo-transparent (2).png') }}" alt="" /></a>
               </div>
               <ul>
-                <li>Address:Bandung Jawa Barat</li>
-                <li>Phone: 081212121212</li>
-                <li>Email: frueats@ittp-otwtelu.ac.id</li>
+                <li>Alamat : Jl. Samparangin, RT.4/1/RW.no 148, Tasari, Teluk, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53145</li>
+                <li>Telp : 089530830982</li>
+                {{-- <li>Email: frueats@ittp-otwtelu.ac.id</li> --}}
               </ul>
             </div>
           </div>

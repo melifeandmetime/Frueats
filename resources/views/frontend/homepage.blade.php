@@ -56,8 +56,8 @@
                 <div class="card-body">
                   <h5 class="card-title">{{ $product->name }}</h5>
                   <p class="card-text" style="margin-top: -15px;">{{ $product->description }}</p>
-                  <p class="card-text" style="margin-top: -15px;">Rp. {{ number_format($product->price, 2) }}</p>
-                  <p class="card-text" style="margin-top: -15px;"><strong>Stok:</strong> {{ $product->quantity }}</p>
+                  <p class="card-text" style="margin-top: -5px;">Rp. {{ number_format($product->price, 2) }}</p>
+                  {{-- <p class="card-text" style="margin-top: -15px;"><strong>Stok:</strong> {{ $product->quantity }}</p> --}}
                   <a href="{{ url('carts_insert', $product->id) }}" class="btn btn-success">Order</a>
                 </div>
               </div>

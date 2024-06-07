@@ -3,7 +3,7 @@
 @section('content')
 
     <!-- Breadcrumb Section Begin -->
-    <section class="breadcrumb-section set-bg" data-setbg="{{ asset('frontend/img/breadcrumb.jpg') }}">
+    <section class="breadcrumb-section set-bg" data-setbg="{{ asset('frontend/img/fruitcrop.jpg') }}">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -75,6 +75,7 @@
                         <option value="Surabaya" data-total="20000">Surabaya</option>
                         <option value="Yogyakarta" data-total="25000">Yogyakarta</option>
                         <option value="Malang" data-total="30000">Malang</option>
+                        <option value="Purwokerto" data-total="10000">Purwokerto</option>
                     </select>
                     </div>
                 </div>

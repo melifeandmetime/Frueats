@@ -21,6 +21,7 @@ Route::get('/shop', [\App\Http\Controllers\ShopController::class, 'index'])->nam
 Route::get('/shop/{slug?}', [\App\Http\Controllers\ShopController::class, 'product_slug'])->name('shop.product_slug');
 Route::get('/shop/tag/{slug?}', [\App\Http\Controllers\ShopController::class, 'tag'])->name('shop.tag');
 Route::get('/product/{product:slug}', [\App\Http\Controllers\ProductController::class, 'show'])->name('product.show');
+Route::get('/contact', [\App\Http\Controllers\ContactController::class, 'index'])->name('contact');
 
 // react route
 Route::get('products/{slug?}', [\App\Http\Controllers\ShopController::class, 'getProducts']);
