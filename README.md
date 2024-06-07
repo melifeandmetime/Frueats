@@ -1,38 +1,17 @@
-# Laravel 9 & React js - Ecommerce application
 
-## Run Locally
+<h1 align="center">
+  <br>
+   FRUEATS
+  <br>
+</h1>
 
-Clone the project
+## Kelompok 5
 
-```bash
-  git clone https://github.com/shreyamalik708/ogani-ecommerce-fruits-and-vegetables-php-laravel.git
-```
+## Our Team
+- Aldi Yoga Setiawan  - 21103050
+- Nabilah Husen Al Kaff - 21103036
+- Dewa Brata - 21103042
+- Zidan Fathannul - 21103046
+- Regi Bintera Siregar - 21103052
+- Bandum Irsa Maulana - 21103035
 
-Go to the project directory
-
-```bash
-  cd project-name
-```
-
--   Copy .env.example file to .env and edit database credentials there
-
-```bash
-    composer install or composer update
-```
-
-```bash
-    php artisan key:generate
-```
-
-```bash
-    php artisan migrate:fresh --seed
-```
-
-```bash
-    php artisan storage:link
-```
-
-#### Login
-
--   email = admin@example.com
--   password = 123
