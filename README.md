@@ -13,5 +13,7 @@
 - Dewa Brata - 21103042
 - Zidan Fathannul - 21103046
 - Regi Bintera Siregar - 21103052
-- Bandum Irsa Maulana - 21103035
+- Bandum Irsa Maulana - 21103035 
+
+https://arkanabuah.frueats.my.id/ (better access on pc/laptop)
 
