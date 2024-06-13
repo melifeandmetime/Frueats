@@ -15,5 +15,5 @@
 - Regi Bintera Siregar - 21103052
 - Bandum Irsa Maulana - 21103035 
 
-https://arkanabuah.frueats.my.id/ (better access on pc/laptop)
+https://arkanabuah.frueats.my.id/ (better access on pc/laptop & make sure register first)
 
